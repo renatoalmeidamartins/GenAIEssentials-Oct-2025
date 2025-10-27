@@ -30,3 +30,4 @@
 - [Customizing models, through continued pre-training, distillation and fine-tuning](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
 - [Quotas in Bedrock](docs.aws.amazon.com/general/latest/gr/bedrock.html#limits_bedrock)
 - [Sagemaker Model Monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- [Amazon Augmented AI, for human-in-the-loop evaluation](https://aws.amazon.com/augmented-ai/faqs/)
