@@ -22,3 +22,4 @@
 - [Sagemaker Clarify - GenAI side](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate.html)
 - [Sagemaker AutoPilot](https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html)
 - [Bedrock removed requirement to request model access](https://aws.amazon.com/blogs/security/simplified-amazon-bedrock-model-access/)
+- [OWASP for GenAI](https://genai.owasp.org/)
