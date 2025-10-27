@@ -25,3 +25,4 @@
 - [OWASP for GenAI](https://genai.owasp.org/)
 - [Analysis of a security firm - PaloAlto Networks, about prompt attacks](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
 - [Research into attacks on LLM-driven robots](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
+- [AWS Config Conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
