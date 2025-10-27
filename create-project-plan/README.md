@@ -1,6 +1,6 @@
 # Lab 3 files - Creating a project plan with gen AI
 
- ## [Instructions](6 Lab3-instructions.pdf)
+ ## [Instructions](6_Lab3-instructions.pdf)
 
 - [Company's Use case](AnyOrg_UseCase.txt)
 - [1- Use case selection](1_Generative_AI_Use_Case_Selection_SAMPLE.md)
