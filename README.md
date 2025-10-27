@@ -23,3 +23,4 @@
 - [Sagemaker AutoPilot](https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html)
 - [Bedrock removed requirement to request model access](https://aws.amazon.com/blogs/security/simplified-amazon-bedrock-model-access/)
 - [OWASP for GenAI](https://genai.owasp.org/)
+- [Analysis of a security firm - PaloAlto Networks, about prompt attacks](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
