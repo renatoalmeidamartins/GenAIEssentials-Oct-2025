@@ -4,6 +4,18 @@
 - [Skill builder](https://skillbuilder.aws/)
 - [CloudQuest](https://cloudquest.skillbuilder.aws/)
 
+## [Last lab information (creating the project plan)](create-project-plan/README.md)
+
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
 
 # Links 
 - [Prompt engineering definition and examples - AWS-official](https://aws.amazon.com/what-is/prompt-engineering/)
