@@ -1,7 +1,9 @@
 
-# Lab access
+# Lab access and skill builder stuff
 - [Labs and course materials](https://us-east-1.student.classrooms.aws.training/class/sVJtkMwg5JhxSRBPSxasQX)
 - [Skill builder](https://skillbuilder.aws/)
+- [CloudQuest](https://cloudquest.skillbuilder.aws/)
+
 
 # Links 
 - [Prompt engineering definition and examples - AWS-official](https://aws.amazon.com/what-is/prompt-engineering/)
@@ -12,3 +14,5 @@
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [AWS Rekognition API, an example of how simple the APIs for high-level services can be](https://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html)
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
+- [Responsible AI](https://aws.amazon.com/ai/responsible-ai/)
+- [Clean code - a handbook of agile software craftmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
