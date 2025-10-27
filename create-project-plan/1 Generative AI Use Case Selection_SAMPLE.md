@@ -96,7 +96,9 @@ To successfully implement a generative AI solution, AnyOrganization should asses
 
 3. **Skill and Talent Readiness:** Identify the necessary skills and expertise required for developing, deploying, and maintaining the generative AI solution. Assess the availability of these skills within the organization or the need for external hiring or training.
 
-4. **Cultural and Change Rea[{"type":"text","text":"the document got truncated, please recreate it "}]# Generative AI Use Case Selection
+4. **Cultural and Change Rea
+[{"type":"text","text":"the document got truncated, please recreate it "}]
+# Generative AI Use Case Selection
 
 ## Problem Statement
 
