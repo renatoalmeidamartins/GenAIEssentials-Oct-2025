@@ -1,0 +1,1 @@
+# GenAIEssentials-Oct-2025
