@@ -27,3 +27,4 @@
 - [Research into attacks on LLM-driven robots](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
 - [AWS Config Conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [re:invent video on how to mitigate OWASP top-10 LLM vulnerabilities](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+- [Customizing models, through continued pre-training, distillation and fine-tuning](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
