@@ -26,3 +26,4 @@
 - [Analysis of a security firm - PaloAlto Networks, about prompt attacks](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
 - [Research into attacks on LLM-driven robots](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
 - [AWS Config Conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [re:invent video on how to mitigate OWASP top-10 LLM vulnerabilities](https://www.youtube.com/watch?v=ewxCqXYoz4A)
