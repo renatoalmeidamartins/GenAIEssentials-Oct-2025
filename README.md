@@ -24,3 +24,4 @@
 - [Bedrock removed requirement to request model access](https://aws.amazon.com/blogs/security/simplified-amazon-bedrock-model-access/)
 - [OWASP for GenAI](https://genai.owasp.org/)
 - [Analysis of a security firm - PaloAlto Networks, about prompt attacks](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
+- [Research into attacks on LLM-driven robots](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
