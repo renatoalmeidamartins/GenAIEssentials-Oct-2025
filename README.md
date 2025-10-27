@@ -11,5 +11,3 @@
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [AWS Rekognition API, an example of how simple the APIs for high-level services can be](https://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html)
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
-- 
-- 
