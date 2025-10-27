@@ -16,3 +16,4 @@
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Responsible AI](https://aws.amazon.com/ai/responsible-ai/)
 - [Clean code - a handbook of agile software craftmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Hype cycle for GenAI](https://www.gartner.com/en/articles/hype-cycle-for-genai)
