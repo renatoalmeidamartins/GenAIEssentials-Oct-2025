@@ -20,4 +20,4 @@
 - [Model card json schema - fields that can be added to a model card in Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html#model-cards-json-schema)
 - [Sagemaker Clarify reports - ML side](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html)
 - [Sagemaker Clarify - GenAI side](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate.html)
-- 
+- [Sagemaker AutoPilot](https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html) 
