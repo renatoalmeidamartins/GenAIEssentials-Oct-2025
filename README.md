@@ -1,6 +1,7 @@
 
 # Lab access
 - [Labs and course materials](https://us-east-1.student.classrooms.aws.training/class/sVJtkMwg5JhxSRBPSxasQX)
+- [Skill builder](https://skillbuilder.aws/)
 
 # Links 
 - [Prompt engineering definition and examples - AWS-official](https://aws.amazon.com/what-is/prompt-engineering/)
